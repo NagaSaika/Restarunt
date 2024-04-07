@@ -1,0 +1,291 @@
+{
+    "Restarunt": [   {
+        "name":"kamath dhaba",
+        "address": "Mundur"  ,
+        "pincode" : "534451",
+        "restaurant type" : "south indian,bar",
+        "mincost":250,
+        "logo" :"url(https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/)",
+        "service type" : "Take away"
+    },
+    {
+    "name":"Friends Dhaba Restaurant",
+    "address": "R Pangidigudem"  ,
+    "pincode" : "534425",
+    "restaurant type" : "North Indian",
+    "mincost": 270,
+    "logo" :"url(https://media.istockphoto.com/id/1295633127/photo/grilled-chicken-meat-and-fresh-vegetable-salad-of-tomato-avocado-lettuce-and-spinach-healthy.jpg?s=2048x2048&w=is&k=20&c=kSvkCkmXwVbLzyS3t1XbB9rLVyvYPPOy2Qt98T31-RU=)",
+    "service type" : "Take away"
+},
+{
+    "name":"Raju Gari Biryani",
+    "address": "Bhimadole,"  ,
+    "pincode" : "534426",
+    "restaurant type" : "Andhra",
+    "mincost":275,
+    "logo" :"url(https://media.istockphoto.com/id/1414285963/photo/stuffed-turkey-for-thanksgiving-holidays-with-pumpkin-peas-pecan-berry-pie-cheese-variations.jpg?s=2048x2048&w=is&k=20&c=nklu3Vl_PleqV4s4auXxoSzc_jC9NOjbh-9EQh5h4NM=)",
+    "service type" : "Take away,"
+},
+{
+    "name":"Royal Biryani & Chicken Pakodi",
+    "address": "Polasanapalli"  ,
+    "pincode" : "534427",
+    "restaurant type" : "south indian,bar",
+    "mincost":295,
+    "logo" :"url(https://media.istockphoto.com/id/1495081460/photo/different-spicy-vegetables-on-white-textured-background.jpg?s=2048x2048&w=is&k=20&c=R3ExB3yNBZFK6yxFI4K6Z5-yFvojEO61NoiFSqL7Eos=)",
+    "service type" : "Delivery"
+},
+{
+    "name":"Odisha Family Dhaba",
+    "address": "Surappagudem"  ,
+    "pincode" : "534428",
+    "restaurant type" : "south indian,bar",
+    "mincost":175,
+    "logo" :"url(https://149842033.v2.pressablecdn.com/wp-content/uploads/2019/06/html-food-website-templates.jpg)",
+    "service type" : "Delivery"
+},
+{
+    "name":"Chinni Restaurant",
+    "address": "Rajamundry"  ,
+    "pincode" : "534485",
+    "restaurant type" : "Chinese",
+    "mincost":190,
+    "logo" :"url(https://thumbs.dreamstime.com/z/chef-hotel-restaurant-kitchen-cooking-hands-prepared-beef-steak-vegetable-decoration-81415061.jpg?ct=jpeg)",
+    "service type" : "Take away,"
+},
+{
+    "name":"Hotel Sri Vijaya Bhavani Restaurants",
+    "address": "Eluru"  ,
+    "pincode" : "534003",
+    "restaurant type" : "North Indian",
+    "mincost":215,
+    "logo" :"url(https://thumbs.dreamstime.com/z/female-chef-restaurant-kitchen-cooking-26869165.jpg?ct=jpeg)",
+    "service type" : "Delivery"
+},
+{
+    "name":"Veeranjaneyulu Family Restaurant",
+    "address": "Buttayigudem"  ,
+    "pincode" : "534425",
+    "restaurant type" : "south indian",
+    "mincost":230,
+    "logo" :"url(https://media.istockphoto.com/id/467531762/photo/canapes.jpg?s=2048x2048&w=is&k=20&c=9n8E6a8BkgaE7r1FhGHtaZ6X1dwvwf6UYXm9thPhxK4=)",
+    "service type" : "Dinein"
+},
+{
+    "name":"Shanti Family Restaurant Restaurants",
+    "address": "Amberpeta"  ,
+    "pincode" : "534350",
+    "restaurant type" : "Chinese",
+    "mincost":245,
+    "logo" :"url(https://media.istockphoto.com/id/1403973419/photo/table-top-of-food-spread-on-table.jpg?s=1024x1024&w=is&k=20&c=MUzQiekBfW_aJnHk-Q0oGwyJyz6K1XUwq-_UZCf1tMM=)",
+    "service type" : "Delivery"
+},
+{
+    "name":"B-Town Food Plaza",
+    "address": "Kappalakunta"  ,
+    "pincode" : " 534425",
+    "restaurant type" : "Chinese, Italian",
+    "mincost":300,
+    "logo" :"url(https://media.istockphoto.com/id/1295633127/photo/grilled-chicken-meat-and-fresh-vegetable-salad-of-tomato-avocado-lettuce-and-spinach-healthy.jpg?s=2048x2048&w=is&k=20&c=kSvkCkmXwVbLzyS3t1XbB9rLVyvYPPOy2Qt98T31-RU=)",
+    "service type" : "Delivery, Fine Dining, Take Away Joints, Take Away"
+},
+{
+    "name":"New Punjabi Dhaba Restaurant",
+    "address": "Dwaraka Tirumala"  ,
+    "pincode" : "534426",
+    "restaurant type" : "Chinese",
+    "mincost":255,
+    "logo" :"url(https://media.istockphoto.com/id/1398630614/photo/bacon-cheeseburger-on-a-toasted-bun.jpg?s=2048x2048&w=is&k=20&c=BZiNKDrgDpdXFKimB69ynYx6kZeSQBzrWAomGs05GEg=)",
+    "service type" : "Delivery, Quick Bite Outlet, Dhaba, Take Away"
+},
+{
+    "name":"Sri Ramya Family Restaurant",
+    "address": "Kovvur"  ,
+    "pincode" : "534451",
+    "restaurant type" : "south indian",
+    "mincost":295,
+    "logo" :"url(https://media.istockphoto.com/id/1403973419/photo/table-top-of-food-spread-on-table.jpg?s=2048x2048&w=is&k=20&c=huMXHeOEi-72-TuRBbpjQppkbp4ABrW2Cj1Xgofl2Xc=)",
+    "service type" : "Delivery, Take Away"
+},
+{
+    "name":"Kasumarthi Brothers Family Restaurant",
+    "address": "Laxminagar"  ,
+    "pincode" : "532001",
+    "restaurant type" : "Andhra",
+    "mincost":305,
+    "logo" :"url(https://media.istockphoto.com/id/1156304531/photo/hands-with-the-phone-close-up-pictures-of-food.jpg?s=2048x2048&w=is&k=20&c=UDNbaGTKViibJK3StpCBDeChjAq6hD09TFG7BRlZc0c=)",
+    "service type" : "Take away"
+},
+{
+    "name":"GARUDA Foodcourts",
+    "address": "Komirepalle"  ,
+    "pincode" : "534432",
+    "restaurant type" : "Chinese",
+    "mincost":345,
+    "logo" :"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxHH9sMRj_OgVxRX4OevVM8QQNWZtNWnPWEoVKuddNQ&s)",
+    "service type" : "Delivery"
+},
+{
+    "name":"Gayatri Hotel",
+    "address": "Tadikalapudi"  ,
+    "pincode" : "534112",
+    "restaurant type" : "south indian",
+    "mincost":245,
+    "logo" :"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVzrD-f9o2QAsaz4Wiiy1konJ6kCZnY7h4kBsI_E556Q&s)",
+    "service type" : "Dinein"
+},
+{
+    "name":"Blue Moon Restaurant",
+    "address": "Galayagudem"  ,
+    "pincode" : "534455",
+    "restaurant type" : "Italian",
+    "mincost":550,
+    "logo" :"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXdAjhdjjYL1SgljIFJgxDxhslxfZyrKMnltNy1_bl3A&s)",
+    "service type" : "Delivery, Quick Bite Outlet, Dhaba, Take Away"
+},
+{
+    "name":"Happy Punjabi Dhaba",
+    "address": "Pulla"  ,
+    "pincode" : " 534401",
+    "restaurant type" : "Punjabi, North Indian",
+    "mincost":450,
+    "logo" :"url(https://mir-s3-cdn-cf.behance.net/project_modules/hd/3e11ca40877393.5606eb86c7db4.jpg)",
+    "service type" : "Take away"
+},
+{
+    "name":"Raju Gari Biryani",
+    "address": "Dorasanipadu"  ,
+    "pincode" : " 534426",
+    "restaurant type" : "Indian",
+    "mincost":350,
+    "logo" :"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vazIfYQPdfSOWhZZa5UC4u7WaqFmQ-2t7aPBflu6epy1Yf8VZ0UutHgOPAumenNzcak&usqp=CAU)",
+    "service type" : "Delivery, Take Away"
+},
+{
+    "name":"Pavan Said Dhaba",
+    "address": "Thimmapuram"  ,
+    "pincode" : "534422",
+    "restaurant type" : "Indian",
+    "mincost":325,
+    "logo" :"url(https://static.wixstatic.com/media/956cf7_a91c62fe39bb4387a4d75e56ee9bedd9~mv2.png/v1/fit/w_2500,h_1330,al_c/956cf7_a91c62fe39bb4387a4d75e56ee9bedd9~mv2.png)",
+    "service type" : "Dhaba, Take Away"
+},
+{
+    "name":"Sri akhila family restaurant ac and non ac",
+    "address": "Seethampeta"  ,
+    "pincode" : "534427",
+    "restaurant type" : "south indian",
+    "mincost":180,
+    "logo" :"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTD4NLksRTO3GaaSSLO9VOOAecwuiNXPB_JrsH25yrEQ&s)",
+    "service type" : "Dinein"
+},
+{
+    "name":"Sri Annapurna family restaurant",
+    "address": "Gundugolanu"  ,
+    "pincode" : "534427",
+    "restaurant type" : "Indian",
+    "mincost":145,
+    "logo" :"url(https://media.istockphoto.com/id/1385196919/photo/inflation-concept.jpg?s=1024x1024&w=is&k=20&c=4iefZMNZOObViTALBgQ52RZ0lsNBGSelKNVzNhLdszE=)",
+    "service type" : "Delivery"
+},
+{
+    "name":"Kk Family Restaurant",
+    "address": "Dwaraka Tirumala "  ,
+    "pincode" : "534425",
+    "restaurant type" : "Indian",
+    "mincost":125,
+    "logo" :"url(https://media.istockphoto.com/id/1403973419/photo/table-top-of-food-spread-on-table.jpg?s=2048x2048&w=is&k=20&c=huMXHeOEi-72-TuRBbpjQppkbp4ABrW2Cj1Xgofl2Xc=)",
+    "service type" : "Dinein"
+},
+{
+    "name":"Abhiruchi Restaurant",
+    "address": "Kamavarapukota"  ,
+    "pincode" : "534449",
+    "restaurant type" : "North Indian",
+    "mincost":240,
+    "logo" :"url(https://media-cdn.tripadvisor.com/media/photo-s/12/ee/ab/bc/paneer-veggie-platter.jpg)",
+    "service type" : "Take away"
+},
+{
+    "name":"Ramesh Food Zone",
+    "address": "Aadamilli"  ,
+    "pincode" : "532001",
+    "restaurant type" : "Indian",
+    "mincost":120,
+    "logo" :"url(https://www.hotelmousai.com/blog/wp-content/uploads/2021/12/Italian-Cheese-800x533.jpg)",
+    "service type" : "Dinein"
+},
+{
+    "name":"Braja Raj Dalua",
+    "address": "Kothagudem"  ,
+    "pincode" : "534432",
+    "restaurant type" : "Punjabi, North Indian",
+    "mincost":280,
+    "logo" :"url(https://www.hotelmousai.com/blog/wp-content/uploads/2021/12/Focaccia-800x533.jpg)",
+    "service type" : "Delivery, Take Away"
+},
+{
+    "name":"Sri Durga Hotel",
+    "address": "Visakapatnam"  ,
+    "pincode" : "534401",
+    "restaurant type" : "Indian",
+    "mincost":265,
+    "logo" :"url(https://www.hotelmousai.com/blog/wp-content/uploads/2021/12/Arancini-800x533.jpg)",
+    "service type" : "Delivery"
+},
+{
+    "name":"Lakshmi Restaurant",
+    "address": "Tedlum"  ,
+    "pincode" : "533001",
+    "restaurant type" : "south indian",
+    "mincost":750,
+    "logo" :"url(https://www.hotelmousai.com/blog/wp-content/uploads/2021/12/Pasta-800x533.jpg)",
+    "service type" : "Delivery"
+},
+{
+    "name":"B Town Eat N Chill",
+    "address": "Dubacherla"  ,
+    "pincode" : "534112",
+    "restaurant type" : "North Indian",
+    "mincost":155,
+    "logo" :"url(https://www.hotelmousai.com/blog/wp-content/uploads/2021/12/Top-10-Traditional-Foods-in-Italy.jpg)",
+    "service type" : "Delivery, Take Away"
+},
+{
+    "name":"Maa Vabani Dhaba Restaurants",
+    "address": "Vegiwada"  ,
+    "pincode" : "534452",
+    "restaurant type" : "Indian",
+    "mincost":130,
+    "logo" :"url(https://honehealth.com/wp-content/uploads/2023/06/high-protein-fast-food-1-2048x880.webp)",
+    "service type" : "Take away"
+},
+{
+    "name":"Dhanamma Hotel",
+    "address": "Gangannagudem"  ,
+    "pincode" : "531100",
+    "restaurant type" : "south indian",
+    "mincost":110,
+    "logo" :"url(https://www.healthkart.com/connect/wp-content/uploads/2023/01/900x500_banner_HK-Types-of-foods-that-you-should-eat-a-lot-rarely-and-occasionally.png)",
+    "service type" : "delivery"
+},
+{
+    "name":"786 Biryani House",
+    "address": "Tanuku"  ,
+    "pincode" : "538811",
+    "restaurant type" : "south indian",
+    "mincost":95,
+    "logo" :"url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.cato.org%2Fsites%2Fcato.org%2Ffiles%2Fstyles%2Faside_3x%2Fpublic%2F2023-11%2Ffood-spread.jpg%3Fitok%3DPPXLuOYP&tbnid=KbNwhJuAQiCBlM&vet=12ahUKEwiSsZGynOeEAxVe8TgGHZ9XDnwQMygKegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fwww.cato.org%2Fpublications%2Ftrade-cuisine&docid=Dl1R-DGOR9Yo_M&w=1419&h=798&q=food&ved=2ahUKEwiSsZGynOeEAxVe8TgGHZ9XDnwQMygKegUIARCGAQ)",
+    "service type" : "Dinein"
+},
+{
+    "name":"Storee 2 Door",
+    "address": "Narsapur"  ,
+    "pincode" : "534275",
+    "restaurant type" : "Indian",
+    "mincost":260,
+    "logo" :"url(https://www.justdial.com/West-Godavari/Storee-2-Door-Roypeta/9999P8812-8812-180331064330-T4Q6_BZDET/gallery?tab=all&pselect=181651543&template=1&ncatid=10408936&mncatname=Restaurants&bd=1)",
+    "service type" : "Sweet Shop, Bakery, Pizza Outlets, Cake Shops, Tiffin Service, Caterer"
+}
+]
+}
